@@ -20,7 +20,7 @@ allprojects {
 ```
 ```gradle
 dependencies {
-    implementation 'com.github.kaancelen:RateView:1.0.0'
+    implementation 'com.github.kaancelen:RateView:1.0.1'
 }
 ```
 
