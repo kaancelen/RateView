@@ -1,0 +1,2 @@
+include ':app', ':rateview'
+rootProject.name='SampleApp'

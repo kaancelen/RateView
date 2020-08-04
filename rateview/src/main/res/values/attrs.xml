@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RateView">
+        <attr name="kc_count" format="integer"/>
+        <attr name="kc_selector_resource" format="reference" />
+    </declare-styleable>
+</resources>
