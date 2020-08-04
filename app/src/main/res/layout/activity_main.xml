@@ -10,6 +10,8 @@
     <com.kaancelen.rateview.RateView
         android:id="@+id/rate_view"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
+        android:layout_height="wrap_content"
+        app:kc_selector_resource="@drawable/ic_star_selector"
+        app:kc_count="5"/>
 
 </FrameLayout>

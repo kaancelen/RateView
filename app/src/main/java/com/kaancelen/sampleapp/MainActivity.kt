@@ -15,5 +15,6 @@ class MainActivity : AppCompatActivity() {
         rateView.onChangeListener {
             Toast.makeText(this, "Selected $it", Toast.LENGTH_LONG).show()
         }
+        rateView.getLastSelected()
     }
 }
