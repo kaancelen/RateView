@@ -4,7 +4,7 @@
 RateView is a custom rating view that allows user to set number of items and drawables.
 Default count is 5 and default resources like below.
 
-
+![](images/demo.gif)  
 
 ## How To Use
 ### Install
